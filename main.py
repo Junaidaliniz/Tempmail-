@@ -15,6 +15,7 @@ GROUP_IDS = [
 
 API_URLS = [
     "https://api-node-js-new-production-b09a.up.railway.app/api?type=sms",
+    "https://dua-nodejs-api-production.up.railway.app/api?type=sms",
     
 ]
 
